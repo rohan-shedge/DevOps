@@ -1,0 +1,22 @@
+- "big bang" deployments update whole or large parts of an application in one fell swoop. This strategy goes back to the days when    software was released on physical media and installed by the customer.
+- Associated with the "waterfall model" of large sequential releases.\
+- required the business to conduct extensive development and testing before release, 
+
+Characteristics of big bang deployment include:
+
+	All major pieces packaged in one deployment;
+
+	Largely or completely replacing an existing software version with a new one;
+
+	Deployment usually resulting in long development and testing cycles;
+
+	Assuming a minimal chance of failure as rollbacks may be impossible or impractical;
+
+	Completion times are usually long and can take multiple teams’ efforts;
+
+	Requiring action from clients to update the client-side installation.
+
+
+Big bang deployments aren’t suitable for modern applications because the risks are unacceptable for public-facing or business-critical applications where outages mean huge financial loss. Rollbacks are often costly, time-consuming, or even impossible.
+
+The big bang approach can be suitable for non-production systems	
